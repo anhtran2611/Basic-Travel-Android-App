@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/FPT/AndroidStudioProjects/Login/app/src/main/res/drawable-mdpi/lavender_border.xml" value="0.1680921052631579" />
+        <entry key="..\:/Users/FPT/AndroidStudioProjects/Login/app/src/main/res/drawable/button_background.xml" value="0.1680921052631579" />
+        <entry key="..\:/Users/FPT/AndroidStudioProjects/Login/app/src/main/res/drawable/logout_icon.xml" value="0.1680921052631579" />
+        <entry key="..\:/Users/FPT/AndroidStudioProjects/Login/app/src/main/res/drawable/round_back.xml" value="0.1680921052631579" />
+        <entry key="..\:/Users/FPT/AndroidStudioProjects/Login/app/src/main/res/layout/activity_detail.xml" value="0.152" />
+        <entry key="..\:/Users/FPT/AndroidStudioProjects/Login/app/src/main/res/layout/activity_main.xml" value="0.152" />
+        <entry key="..\:/Users/FPT/AndroidStudioProjects/Login/app/src/main/res/layout/activity_setting.xml" value="0.15789473684210525" />
+        <entry key="..\:/Users/FPT/AndroidStudioProjects/Login/app/src/main/res/layout/activity_startapp.xml" value="0.14002732240437157" />
+        <entry key="..\:/Users/FPT/AndroidStudioProjects/Login/app/src/main/res/layout/progress_layout.xml" value="0.15789473684210525" />
+        <entry key="..\:/Users/FPT/AndroidStudioProjects/Login/app/src/main/res/layout/test.xml" value="0.15789473684210525" />
+        <entry key="..\:/Users/FPT/AndroidStudioProjects/Login/app/src/main/res/layout/upload_data.xml" value="0.15789473684210525" />
+        <entry key="..\:/Users/FPT/AndroidStudioProjects/Login/app/src/main/res/layout/viewholder_category.xml" value="0.536" />
+        <entry key="..\:/Users/FPT/AndroidStudioProjects/Login/app/src/main/res/menu/bottom_nav_menu.xml" value="0.15789473684210525" />
+        <entry key="..\:/Users/FPT/AndroidStudioProjects/Login/app/src/main/res/menu/context_menu.xml" value="0.15789473684210525" />
+        <entry key="..\:/Users/FPT/AndroidStudioProjects/Login/app/src/main/res/menu/flow_menu.xml" value="0.15789473684210525" />
+        <entry key="..\:/Users/FPT/AndroidStudioProjects/Login/app/src/main/res/menu/item_context_menu.xml" value="0.15789473684210525" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

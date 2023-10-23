@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Log-in</string>
+
+    <string name="action_home">Home</string>
+    <string name="action_user">User</string>
+    <string name="action_favorite">Favorite</string>
+    <string name="action_setting">Setting</string>
+    <string-array name="countries">
+
+        <item>Miami</item>
+        <item>Madagascar</item>
+        <item>Malawi, Indonesia</item>
+        <item>Maldives</item>
+        <item>Mali, Africa</item>
+        <item>Malaysia</item>
+        <item>Hawaii</item>
+        <item>Hamburg, Germany</item>
+        <item>Hong Kong</item>
+        <item> Himalayas</item>
+        <item>Angkor Wat, Cambodia</item>
+        <item>Amsterdam, NetherLands</item>
+        <item>Athens, Egypt</item>
+        <item>Halongbay, VietNam</item>
+        <item>Bali, Indonesia</item>
+        <item>Bangkok, Thailand</item>
+        <item>Bhutan, SouthAsia</item>
+        <item>Brussels, Belgium</item>
+        <item>Cairo, Egypt</item>
+        <item>Cairo, Australia</item>
+
+
+
+
+
+
+
+    </string-array>
+
+</resources>
